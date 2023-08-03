@@ -1,17 +1,11 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
-basic annotation 
+Basic annotations - to string
 """
 
 
 def to_str(n: float) -> str:
     """
-    Convert a float to its string representation.
-    
-    Args:
-        n (float): The float number to be converted to a string.
-        
-    Returns:
-        str: The string representation of the input float.
+    casting float to string
     """
     return str(n)
