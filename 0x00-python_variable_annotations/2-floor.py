@@ -3,8 +3,9 @@
 Basic annotations - floor
 """
 
+
 def floor(n: float) -> int:
     """
-    it returns floor num
+    return floor of the number
     """
     return int(n)
